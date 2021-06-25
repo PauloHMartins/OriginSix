@@ -504,7 +504,7 @@ footer .social a:hover {
 
 /*========= MEDIA QUERIES =========*/
 /* extra large devices: 1200 > */
-@media (min-width: 1200px) {
+@media (min-width: 999px) {
   /*Reusable Classes*/
   .container {
     max-width: 1120px;
