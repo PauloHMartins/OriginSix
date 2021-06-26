@@ -138,7 +138,7 @@ body {
 
 .logo {
   font: 700 1.31rem var(--title-font);
-  color: var(--title-color);
+  color: hsla(36, 55%, 12%, 1);
 }
 
 .logo span {
